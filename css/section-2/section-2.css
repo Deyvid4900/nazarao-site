@@ -31,14 +31,12 @@
 
     
 }
-.img-pnl-solar{
-    width: 500px;
-}
-.img-pnl-solar  img{
+.contentt  img{
     max-width: 100%;
     width: 100%;
     height: 100%;
     border-radius: 8px;
+    object-fit: cover;
     
 }
 
